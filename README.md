@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @mvgagan,Self-taught programmer.
-- 👀 I’m interested in programming, machines
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any coding related projects
-- 📫 How to reach me:
- mail - mvgagan15@gmail.com
- twitter - @mvgagan15
+- 👀 I’m interested in programming, machines.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on any coding related projects.
+- 📫 How to reach me:mail - mvgagan15@gmail.com, twitter - @mvgagan15 .
  
  
 <!---
