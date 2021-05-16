@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mvgagan,Self-taught programmng.
+- 👋 Hi, I’m @mvgagan,Self-taught programmer.
 - 👀 I’m interested in programming, machines
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any coding related projects
